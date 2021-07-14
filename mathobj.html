@@ -13,9 +13,16 @@
       document.write(Math.sqrt(16) + "<br>");
       document.write(Math.sqrt(0.25) + "<br>");
       document.write(Math.sqrt(-9) + "<br>");
+      document.write(Math.floor(3.4) + "<br>");
+      document.write(Math.ceil(3.4) + "<br>");
+      document.write(Math.pow(3, 4) + "<br>");
+      document.write(Math.max(3, 4, 100) + "<br>");
+      document.write(Math.tan((0 * Math.PI) / 180) + "<br>");
 
       const karna = (a, b) => Math.sqrt(a * a + b * b);
 
+      const circleArea = (a) => Math.PI * a * a;
+      document.write("Area of Circle :" + circleArea(4) + "<br>");
       document.write(karna(3, 4) + "<br>");
       document.write(karna(5, 12));
     </script>
