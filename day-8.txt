@@ -1,0 +1,10 @@
+hoisting 
+variable hoisting
+strict mode 
+-> we cannot use undeclared variable,
+-> deleting and duplicating is not allowed
+json
+
+form validation(final) 
+attach the form validation to the form
+
