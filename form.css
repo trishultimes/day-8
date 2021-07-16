@@ -1,0 +1,16 @@
+h1 {
+  text-align: center;
+  font-family: Courier;
+}
+
+.row {
+  width: 80%;
+  padding: 3px;
+}
+
+body.us_body {
+  background-color: lavender;
+  padding: 30px;
+  font-family: times;
+  font-size: large;
+}
